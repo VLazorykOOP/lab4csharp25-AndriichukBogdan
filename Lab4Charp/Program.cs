@@ -658,7 +658,6 @@
                     Console.WriteLine("v1 true");
                 }
 
-
                 if (!v1)
                 {
                     Console.WriteLine("!v1");
